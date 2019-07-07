@@ -15,5 +15,7 @@ Django scripts
 
     python manage.py runserver
 
-    
+    python manage.py startapp blog
+
+
     
