@@ -54,6 +54,11 @@ Django scripts
         user.post_set.create(title='blog 3', content = '3 post content')
 
 
+        python manage.py startapp users
+
+        pip install django-crispy-forms
+
+
 
 
 
